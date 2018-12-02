@@ -1,0 +1,3 @@
+kvartali: {'init': 'epsg:4326'}
+
+grajdanite: {'init': 'epsg:32634'}
